@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe site
+Practice by making a recipe site
